@@ -10,4 +10,4 @@ Preprocessing & Feature Engineering – clean missing values, create rolling/win
 
 Modeling – experiment with tree‑based algorithms (XGBoost, LightGBM) and ensemble stacking to maximize ROC‑AUC.
 
-Results & Next Steps: Achieved baseline accuracy/ROC‑AUC ~0.63; plan hyperparameter tuning, more advanced feature selection, and deployment via a Flask API or GitHub Actions CI pipeline.
+Results & Next Steps: Achieved baseline accuracy/ROC‑AUC ~0.63; plan hyperparameter tuning, more advanced feature selection.
