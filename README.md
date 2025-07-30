@@ -1,5 +1,4 @@
 # system_threat_forecaster
-Here’s a concise 4‑point summary of your Kaggle “System Threat Forecaster” notebook project:
 
 Objective: Build a predictive model to forecast impending system threats (e.g. failures, security alerts) based on historical telemetry and event logs.
 
